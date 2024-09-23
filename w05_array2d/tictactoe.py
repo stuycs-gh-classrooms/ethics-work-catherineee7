@@ -4,13 +4,13 @@ tictactoe = [
 [" ", " ", " "]  
 ]
 
-# column = input("P1: choose a column: ")
-# row = input("P1: choose a row: ")
-# XorO = input("P1: x or o: ")
+column = input("P1: choose a column: ")
+row = input("P1: choose a row: ")
+XorO = input("P1: x or o: ")
 
-# column1 = input("P2: choose a column: ")
-# row1 = input("P2: choose a row: ")
-# XorO_1 = input("P2: x or o: ")
+column1 = input("P2: choose a column: ")
+row1 = input("P2: choose a row: ")
+XorO_1 = input("P2: x or o: ")
 
 def tictactoeArray():
   for i in tictactoe:
